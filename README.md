@@ -1,11 +1,3 @@
-Here’s a full working flashcard game in one HTML file. It randomizes question order every time, has a timer, score, skip button, and final results.
-
-Save it as:
-
-history_flashcard_game.html
-
-Then double-click it to play.
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
